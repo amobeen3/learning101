@@ -4,3 +4,5 @@ Linu commands
 Cloud
 AWS/Azure
 Google cloud
+This project is bogus and is for learning purpose
+Learning on Youtube.
